@@ -21,7 +21,7 @@ Building scalable, real-time backend systems for production SaaS and AI-driven p
 - Currently working on **AI agentic systems** handling live audio, concurrency, and multi-tenant workflows
 - Experience building **production SaaS platforms** used by real users
 
-📫 **Contact:** ghu lamghaus266@gmail.com  
+📫 **Contact:** ghulamghaus266@gmail.com  
 🌐 **Portfolio:** https://ghaus-portfolio.firebaseapp.com
 
 ---

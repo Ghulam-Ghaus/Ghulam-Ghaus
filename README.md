@@ -1,27 +1,148 @@
 <h1 align="center">Hi 👋, I'm Ghulam Ghaus</h1>
-<h3 align="center">💻 A passionate backend developer from Pakistan</h3>
+<h3 align="center">
+Backend Engineer (Python & Node.js) | AI Agentic Systems | Cloud & Microservices
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghulam-Ghaus&label=Profile%20views&color=761f9e&style=flat" alt="Ghulam-Ghaus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghulam-Ghaus&row=1&column=10" alt="Ghulam-Ghaus" /></a> </p>
-
-- 🌱 I’m currently learning **React, Nextjs**
-
-- 📫 How to reach me **ghulamghaus266@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ghulam-ghaus-5b4ba9194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghulam-Ghaus" height="30" width="40" /></a>
+<p align="center">
+Building scalable, real-time backend systems for production SaaS and AI-driven platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ghulam-Ghaus&label=Profile%20views&color=761f9e&style=flat" alt="Ghulam-Ghaus" />
+</p>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodeJS" width="40" height="40"/> </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer">  <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="60" height="40"> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="80" height="40"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghulam-Ghaus&show_icons=true&locale=en&layout=compact" alt="Ghulam-Ghaus" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghulam-Ghaus&show_icons=true&locale=en" alt="Ghulam-Ghaus" /></p>
+- Backend Engineer with **3+ years of professional experience**
+- Specialized in **Node.js & Python** backend systems
+- Strong background in **microservices, real-time systems, and cloud-native architectures**
+- Currently working on **AI agentic systems** handling live audio, concurrency, and multi-tenant workflows
+- Experience building **production SaaS platforms** used by real users
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghulam-Ghaus&" alt="Ghulam-Ghaus" /></p>
+📫 **Contact:** ghu lamghaus266@gmail.com  
+🌐 **Portfolio:** https://ghaus-portfolio.firebaseapp.com
+
+---
+
+## 🧠 What I Work On
+
+- High-performance **REST APIs**
+- **Real-time systems** using WebSockets
+- **Agent-based AI backends** (STT / TTS pipelines)
+- **Multi-tenant SaaS architectures**
+- Database design, optimization, and scalability
+- Secure authentication & authorization systems
+
+---
+
+## 🏢 Professional Experience (Highlights)
+
+### **Agentic AI Engineer – Intakely AI (Remote)**
+- Built a **real-time AI voice intake system** handling live phone calls
+- Implemented **WebSocket-based audio streaming** with sub-second latency
+- Integrated **STT/TTS pipelines** with barge-in support
+- Designed **multi-tenant backend workflows** with automated scheduling
+- Focused on **concurrency, fault tolerance, and scalability**
+
+### **Software Engineer – SOFTOO (Pvt.) Ltd**
+- Developed backend services for a **production SaaS platform**
+- Built and maintained **Node.js & TypeScript microservices**
+- Designed REST APIs and serverless components
+- Optimized **MySQL & DynamoDB** queries for performance
+- Migrated legacy systems to modern architectures
+
+### **Node.js Developer – HiveWorx (Pvt.) Ltd**
+- Built enterprise-grade backends using **Express.js & NestJS**
+- Designed PostgreSQL schemas and REST APIs
+- Implemented **OAuth2, JWT, and RBAC**
+- Led development of a **centralized SSO User Management System**
+- Developed real-time notification systems with WebSockets
+
+---
+
+## 🔒 Company-Based Private Projects
+
+> Due to confidentiality, the following projects are **private repositories** developed for companies:
+
+- **AI Voice Intake System**  
+  Real-time AI-driven voice intake and scheduling platform for the legal industry  
+  *(Python, WebSockets, Twilio, Whisper STT, Cartesia TTS, Supabase)*
+
+- **User Management System (SSO)**  
+  Centralized authentication & authorization microservice used across multiple applications  
+  *(Node.js, NestJS, PostgreSQL, OAuth2, JWT)*
+
+- **Enterprise SaaS Platforms**  
+  Backend systems for KPI tracking, healthcare platforms, hire purchase management, and asset management  
+  *(Node.js, PostgreSQL, WebSockets, CRON, TypeORM)*
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- JavaScript
+- TypeScript
+- Python
+- SQL
+
+### **Backend & Frameworks**
+- Node.js
+- Express.js
+- NestJS
+- FastAPI
+- REST APIs
+- Microservices
+- Serverless
+
+### **Databases**
+- PostgreSQL
+- MySQL
+- MongoDB
+- DynamoDB
+- Firebase
+
+### **Cloud & DevOps**
+- AWS (API Gateway, Lambda, S3, Cognito)
+- Docker
+
+### **Security**
+- OAuth2
+- JWT
+- Role-Based Access Control (RBAC)
+
+### **Tools & Concepts**
+- Git
+- Jira
+- Postman
+- Swagger
+- Jest
+- OOP
+- Data Structures
+- Design Patterns
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ghulam-ghaus-5b4ba9194" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghulam-Ghaus&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghulam-Ghaus&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghulam-Ghaus" />
+</p>
